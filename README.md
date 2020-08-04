@@ -6,3 +6,6 @@ Data about the monsters comes from the (now offline) http://www.monsterrancher.c
 
 ## Technologies
 * Python 3.8 (NumPy and Pandas required)
+
+## Formula
+If you want the formula, look at the end of the Jupyter notebook Lab_Base_Level.ipynb. I've written it in LaTeX in the file, so it looks much nicer than if I tried to copy it here.
